@@ -1,4 +1,4 @@
-### Welcome to my Github! 👋
+# Welcome to my Github! 👋
 
 ## Favorite Languages/Technologies:
 - 🐍 Python

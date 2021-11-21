@@ -2,5 +2,5 @@
 
 ### Favorite Languages/Technologies:
 - 🐍 Python
-- 🕸 HTML, CSS, Javascript, NodeJS
+- 🕸 HTML, CSS, Javascript, NodeJS, Express
 - 🔗 Solidity

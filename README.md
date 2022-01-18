@@ -6,8 +6,8 @@
 - 🔗 Solidity
 
 ### 🔨 What I've Been Working on
-- Improving frontend skills: HTML, CSS
-- Making GOONCoin more functional
+- Building upon existing frontend skills: HTML, CSS
+- Adding functionality to GOONCoin (i.e. Raffle system, more informative dashboard)
 - Improving non-relational database skills (current focus MongoDB)
 
 ### 🏔 2022 Dev Goals

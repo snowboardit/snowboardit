@@ -9,11 +9,11 @@ I am a **passion-driven**, self-taught software engineer with a background in IT
 ## 🌟 Favorite Languages/Technologies
 - 🕸 Javascript, NodeJS, Express, HTML + CSS 
 - 🐍 Python
-- 🔗 Solidity
+- 🔗 Solidity, web3.js
 
 ## 🔨 What I've Been Working on
-- 🏗️ Building upon existing frontend skills: HTML, CSS
-- ⚙️ Adding functionality to GOONCoin (i.e. Raffle system, more informative dashboard)
+- 🏗️ Building upon existing frontend skills, as seen in [Stamp](https://github.com/snowboardit/ThesisTesting)
+- ⚙️ Adding functionality to [GOONCoin](https://github.com/snowboardit/GOONCoin) (i.e. Raffle system, more informative dashboard)
 - 💾 Improving non-relational database skills (current focus MongoDB)
 
 ## 🏔 2022 Dev Goals

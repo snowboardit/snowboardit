@@ -13,7 +13,7 @@ I am a **passion-driven**, self-taught software engineer with a background in IT
 
 ## 🔨 What I've Been Working on
 - 🏗️ Building upon existing frontend skills, as seen in [Stamp](https://github.com/snowboardit/ThesisTesting)
-- ⚙️ Adding functionality to [GOONCoin](https://github.com/snowboardit/GOONCoin) (i.e. Raffle system, more informative dashboard)
+- ⚙️ Adding functionality to [GOON Coin](https://github.com/snowboardit/GOONCoin) (i.e. Raffle system, more informative dashboard)
 - 💾 Improving non-relational database skills (current focus MongoDB)
 
 ## 🏔 2022 Dev Goals

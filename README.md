@@ -12,12 +12,14 @@ I am a **passion-driven**, self-taught software engineer with a background in IT
 - 🔗 Solidity, web3.js
 
 ## 🔨 What I've Been Working on
+- 📚 Learning React and Next.js ([hint, hint](https://github.com/snowboardit/spark-ibc-website))
 - 🏗️ Building upon existing frontend skills, as seen in [Stamp](https://github.com/snowboardit/ThesisTesting)
 - ⚙️ Adding functionality to [GOON Coin](https://github.com/snowboardit/GOONCoin) (i.e. Raffle system, more informative dashboard)
-- 💾 Improving non-relational database skills (current focus MongoDB)
+
 
 ## 🏔 2022 Dev Goals
 - ⚛️ Learn React
+- ⏭ Next.js
 
 ## 🎈 Fun Facts
 - 👪 Love spending time with friends and family

@@ -18,7 +18,7 @@ I am a **passion-driven**, self-taught software engineer with a background in IT
 
 
 ## 🏔 2022 Dev Goals
-- ⚛️ Learn React
+- ⚛️ React
 - ⏭ Next.js
 
 ## 🎈 Fun Facts

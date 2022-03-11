@@ -1,4 +1,4 @@
-# Welcome to my Happy Place! 👋
+# Welcome to my Happy Place! 👋👨‍💻
 ![Max-flyingGIF](https://user-images.githubusercontent.com/23141894/152078843-6f108d8d-e512-454a-b4cd-ffe549e29e4b.gif)
 
 ## 📝 About Me

@@ -7,13 +7,13 @@ I am a **passion-driven**, self-taught software engineer with a background in IT
 ---
 
 ## 🌟 Favorite Languages/Technologies
-- 🕸 Javascript, NodeJS, Express, HTML + CSS 
+- 🕸 TypeScript/JavaScript, React + Next.js, NodeJS, Express, HTML + CSS 
 - 🐍 Python
 - 🔗 Solidity, web3.js
 
 ## 🔨 What I've Been Working on
-- 📚 Learning and building with React and Next.js ([hint](https://github.com/snowboardit/whatsfordinner))
-- 🏗️ Building upon existing frontend skills, as seen in [Stamp](https://github.com/snowboardit/ThesisTesting)
+- 📚 Learning and building with React and Next.js (see [What's for dinner? 🍽](https://github.com/snowboardit/whatsfordinner) or [Personal Website 👨‍💻](https://github.com/snowboardit/website-2022))
+- 🏗️ Building upon and challenging existing basic frontend skills, as seen in [Stamp](https://github.com/snowboardit/ThesisTesting)
 
 ## 🏔 2022 Dev Goals
 - 🔧 Rust

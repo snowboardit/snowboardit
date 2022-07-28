@@ -4,7 +4,7 @@
 ## 📝 About Me
 I am a **passion-driven** systems engineer with 15+ years of computer experience in Windows and Unix-based operating systems.
 From building, maintaining, and troubleshooting enterprise-grade IT systems to writing code for one of my side
-projects, I am always learning something new to improve my skillset and enrich my abilities as a worker. 
+projects, I am always learning something new to improve my skillset and enrich my abilities as a technologist. 
 
 When I am not glued to a computer, I am enjoying the four full seasons of Maine, snowboarding (Sugarloafer since ’02), flying gliders or airplanes,
 spending time with friends and family, or doing a backflip somewhere.

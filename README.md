@@ -1,5 +1,4 @@
 # Welcome to my Happy Place! 👋👨‍💻
-![Max-flyingGIF](https://user-images.githubusercontent.com/23141894/152078843-6f108d8d-e512-454a-b4cd-ffe549e29e4b.gif)
 
 ## 📝 About Me
 As a full stack web developer with an eclectic background in IT and audio/video engineering, I bring a unique perspective to my work. With over three years of experience in software development, I am dedicated to creating intuitive and powerful web applications that solve real-world problems. I am committed to delivering high-quality work and providing exceptional service to my clients. From concept to creation, I'm ready to help you bring your next project to life.

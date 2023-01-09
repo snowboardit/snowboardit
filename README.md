@@ -55,8 +55,8 @@ As a full stack web developer with an eclectic background in IT and audio/video 
 - Netlify
 
 ## 🎈 Fun Facts
-👪 Love spending time with friends and family
-🏂 Snowboarder since '02
-✈️ Flying gliders/airplanes since '13
-💡 Learning something new each and every day
+👪 I love spending time with friends and family<br>
+🏂 Snowboarder since '02<br>
+✈️ Flying gliders/airplanes since '13<br>
+💡  Learning something new each and every day<br>
 📽️ Creative mind with special interests in digital media, photography, and cinematography

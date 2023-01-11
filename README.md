@@ -6,11 +6,11 @@ As a full stack web developer with an eclectic background in IT and audio/video 
 > Please note that my web3-related work is primarly conducted through my secondary GitHub account [@CosmWatch](https://github.com/CosmWatch).
 
 ## 🌄2023 Dev Goals
+⏩ Learn Svelte<br>
 🔧 Improve Rust skills<br>
 🕸️ Improve CosmWasm skills<br>
 📜 Improve TypeScript skills<br>
-⏩ Learn Svelte<br>
-📂 Better code organization & best practices
+📂 Improve code organization & best practices
 
 ## 🎉 2022 Dev Goals
 ✔ ~~Rust~~<br>

@@ -10,6 +10,7 @@ As a full stack web developer with an eclectic background in IT and audio/video 
 🔧 Improve Rust skills<br>
 🕸️ Improve CosmWasm skills<br>
 📜 Improve TypeScript skills<br>
+🎨 Improve web design skills<br>
 📂 Improve code organization & best practices
 
 ## 🎉 2022 Dev Goals

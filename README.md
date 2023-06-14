@@ -5,10 +5,9 @@ As a full stack web developer with an eclectic background in IT and audio/video 
 
 > Please note that my web3-related work is primarly conducted through my secondary GitHub account [@CosmWatch](https://github.com/CosmWatch).
 
-## 🌄2023 Dev Goals
-⏩ Learn Svelte<br>
+## 🌄 2023 Dev Goals
+⏩ Learn Hugo<br>
 🔧 Improve Rust skills<br>
-🕸️ Improve CosmWasm skills<br>
 📜 Improve TypeScript skills<br>
 🎨 Improve web design skills<br>
 📂 Improve code organization & best practices
@@ -24,7 +23,7 @@ As a full stack web developer with an eclectic background in IT and audio/video 
 > ⭐ = Favorite
 
 🕸 **Web**
-- ⭐Type/JavaScript
+- ⭐TypeScript/JavaScript
 - ⭐Next.js
 - ⭐Rust
 - Angular

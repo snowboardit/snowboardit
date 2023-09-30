@@ -1,7 +1,7 @@
 # Hi, I'm Max. 👋👨‍💻
 
 ## 📝 About Me
-As a full stack web developer with an eclectic background in IT and audio/video engineering, I bring a unique perspective to my work. With over three years of experience in software development, I am dedicated to creating intuitive and powerful web applications that solve real-world problems. I am committed to delivering high-quality work and providing exceptional service to my clients. From concept to creation, I'm ready to help you bring your next project to life.
+As a full stack web developer with an eclectic background in IT and audio/video engineering, I bring a unique perspective to my work. With over three years of experience in web development, my focus lies in crafting intuitive and powerful web applications that address real-world challenges. Committed to high-quality results, I strive to provide exceptional service to everyone I collaborate with.
 
 > Please note that my web3-related work is primarly conducted through my secondary GitHub account [@CosmWatch](https://github.com/CosmWatch).
 

@@ -45,3 +45,7 @@ I thoroughly enjoy learning and understand its importance in succeeding as a sof
 ✈️ Flying gliders/airplanes since '13<br>
 💡  Learning something new each and every day<br>
 📽️ Creative mind with special interests in digital media, photography, and cinematography
+
+<br>
+
+> **Still interested?** Check out my [website](https://maxlareau.com), where you can find my featured projects and CV.

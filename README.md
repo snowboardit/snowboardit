@@ -1,9 +1,11 @@
 # Hi, I'm Max. 👋👨‍💻
 
-> My web3-related work is primarly conducted through [@CosmWatch](https://github.com/CosmWatch).
+_Web3/Blockchain Github: [@CosmWatch](https://github.com/CosmWatch)._
 
 ## 🎖 Annual Developer Goals
-I thoroughly enjoy learning and understand its importance in succeeding as a software developer. Since 2022, I've been reflecting on past achievements and planning what to learn in the new year. Here are my [2024 developer goals](https://github.com/snowboardit/goals/blob/master/2024/2024.md). Curious about previous years? Check them out [here](https://github.com/snowboardit/goals/blob/master/README.md).
+I thoroughly enjoy learning and understand its importance in succeeding as a software developer. Since 2022, I've been reflecting on past achievements and planning what to learn in the new year. Here are my [2024 developer goals](https://github.com/snowboardit/goals/blob/master/2024/2024.md). 
+
+> Curious about [previous years](https://github.com/snowboardit/goals/blob/master/README.md)?.
 
 ## 🧰 My Toolbox
 
@@ -40,11 +42,11 @@ I thoroughly enjoy learning and understand its importance in succeeding as a sof
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 ## 🎈 Fun Facts
-👪 I love spending time with friends and family<br>
-🏂 Snowboarder since '02<br>
-✈️ Flying gliders/airplanes since '13<br>
-💡  Learning something new each and every day<br>
-📽️ Creative mind with special interests in digital media, photography, and cinematography
+👪 I love spending time with friends and family.<br>
+🏂 Snowboarder since 2002. I enjoy riding groomers, the terrain park, and through the woods.<br>
+✈️ Certificated glider and airplane pilot since 2013 and 2016 respectively.<br>
+💡 I learn something new (_err...many new things_) every day.<br>
+📽️ Creative mind with special interests in digital media, photography, and cinematography.
 
 <br>
 

@@ -3,7 +3,7 @@
 _Web3/Blockchain Github: [@CosmWatch](https://github.com/CosmWatch)._
 
 ## 🎖 Annual Developer Goals
-I thoroughly enjoy learning and understand its importance in succeeding as a software developer. Since 2022, I've been reflecting on past achievements and planning what to learn in the new year. Here are my [2024 developer goals](https://github.com/snowboardit/goals/blob/master/2024/2024.md). 
+I thoroughly enjoy learning and understand its importance in succeeding as a developer. Since 2022, I've been reflecting on past achievements and planning what to learn in the new year. Here are my [2024 developer goals](https://github.com/snowboardit/goals/blob/master/2024/2024.md). 
 
 > Curious about [previous years](https://github.com/snowboardit/goals/blob/master/README.md)?.
 
@@ -50,4 +50,4 @@ I thoroughly enjoy learning and understand its importance in succeeding as a sof
 
 <br>
 
-> **Still interested?** Check out my [website](https://maxlareau.com), where you can find my featured projects and CV.
+> **Still interested?** Head over to [my website](https://maxlareau.com) to learn more.

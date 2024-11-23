@@ -1,7 +1,5 @@
 # Hi, I'm Max. 👋👨‍💻
 
-_Web3/Blockchain Github: [@CosmWatch](https://github.com/CosmWatch)._
-
 ## 🎖 Annual Developer Goals
 I thoroughly enjoy learning and understand its importance in succeeding as a developer. Since 2022, I've been reflecting on past achievements and planning what to learn in the new year. Here are my [2024 developer goals](https://github.com/snowboardit/goals/blob/master/2024/2024.md). 
 
@@ -51,3 +49,5 @@ I thoroughly enjoy learning and understand its importance in succeeding as a dev
 <br>
 
 > **Still interested?** Head over to [my website](https://maxlareau.com) to learn more.
+
+> _Check out my Web3 contributions [here](https://github.com/CosmWatch)._

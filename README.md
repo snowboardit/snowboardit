@@ -1,53 +1,16 @@
 # Hi, I'm Max. 👋👨‍💻
 
-## 🎖 Annual Developer Goals
-I thoroughly enjoy learning and understand its importance in succeeding as a developer. Since 2022, I've been reflecting on past achievements and planning what to learn in the new year. Here are my [2025 developer goals](https://github.com/snowboardit/goals/blob/master/2025/goals.md). 
+I'm a software engineer and tech enthusiast based in Maine, where my wife, a data scientist, and I share a small rustic farm with our beloved greyhound, two curious cats, and a pair of horses. By day, you'll typically find me immersed in code, moving between programming languages and frameworks, crafting intuitive web applications, and tackling intriguing technical challenges.
 
-> Curious about [previous years](https://github.com/snowboardit/goals/blob/master/README.md)?.
+Life isn't only about technology for me - I deeply value balance and staying curious. There's always a new hobby to explore or an old passion to revisit. Recently, I rekindled my love for soccer after a decade away and discovered joy in woodworking; a custom bed for our greyhound is my latest creation.
 
-## 🧰 My Toolbox
+I'm also passionate about aviation and volunteer with a non-profit soaring club, helping others experience the thrill of flight. When stepping away from screens, I enjoy hands-on projects around our farm—whether that's setting up a new network in the barn or tending to the garden.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
-![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+## 🚀 Annual Developer Goals
+I thoroughly enjoy learning and understand its importance in succeeding as a developer. Since 2022, I've been reflecting on past achievements and planning what to learn in the new year. Here are my [2025 developer goals](https://github.com/snowboardit/goals/blob/master/2025/goals.md) ([all years](https://github.com/snowboardit/goals/blob/master/README.md)).
 
-## 🎈 Fun Facts
-👪 Spending time with friends and family brings me joy.<br>
-🏂 Snowboarding the ice-coast since 2002. I enjoy riding groomers, the terrain park, and through the woods.<br>
-✈️ Glider and airplane pilot since 2013 and 2016 respectively.<br>
-💡 Learning something new (_err...many new things_) every day.<br>
-🎨 My brain is an endless creative engine, with many outlets such as photography, cinematography, coding, woodworking, and other various DIY projects.
+## ⛓️ Links
 
-<br>
+[🌐 Website](https://maxlareau.com)
 
-> **Still interested?** Head over to [my website](https://maxlareau.com) to learn more.
-
-> _Check out my Web3 contributions [here](https://github.com/CosmWatch)._
+[:octocat: Web3 Github](https://github.com/CosmWatch)

@@ -1,12 +1,3 @@
-# Hi, I'm Max. 👋👨‍💻
+# Hey, I'm Max. 🧑‍💻🏂🦞🛩️
 
-I'm a Maine-based software engineer who loves building intuitive web apps, solving technical puzzles, and jumping between languages and frameworks at [Defendify](https://defendify.com/). Outside of code, I live on a small rustic farm with my wife and animals. I split my time between hands-on projects, volunteering with an [aviation foundation](https://soarfranconia.org/), gardening, woodworking, and chasing old passions— like soccer after a ten year break. Curiosity never fails to keep life interesting.
-
-## 🚀 Annual Developer Goals
-I thoroughly enjoy learning and understand its importance in succeeding as a developer. Since 2022, I've been reflecting on past achievements and planning what to learn in the new year. Here are my [2025 developer goals](https://github.com/snowboardit/goals/blob/master/2025/goals.md) ([all years](https://github.com/snowboardit/goals/blob/master/README.md)).
-
-## ⛓️ Links
-
-[🌐 Website](https://maxlareau.com)
-
-[:octocat: Web3 Github](https://github.com/CosmWatch)
+I'm a backend-focused full-stack engineer at Defendify, working mostly in Go, Node, and Postgres on distributed, event-driven services. I was building systems long before I wrote code, and I still approach software the way I approached taking things apart as a kid: understand it first, build it to hold up, keep it readable. Outside work I'm a glider pilot, serve as board member and webmaster for the Franconia Soaring Foundation, and live on a small farm in Maine with my wife, greyhounds, cats, and horses. Usually tinkering with something.
